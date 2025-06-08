@@ -1,3 +1,10 @@
+echo "# Nai" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ctbdhhhujgbyhxdkghnjfcdkhdhngufehm/Nai.git
+git push -u origin main
 ---
 home: true
 heroImage: /logo.png
